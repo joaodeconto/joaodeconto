@@ -1,16 +1,47 @@
-## Hi there 👋
+# João Vicente de Conto
 
-<!--
-**joaodeconto/joaodeconto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Unity & XR Engineer** building immersive training systems, simulations, games, and experimental tools.
 
-Here are some ideas to get you started:
+I have 10+ years of experience with Unity and C#, with recent work focused on **VR, mixed reality, Meta Quest, industrial training, multiplayer systems, and real-time interaction**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing a firearms training and evaluation simulator for Sintres, combining Unity with projectors, high-speed cameras, computer vision, and laser tracking.
+
+## What I build
+
+- VR/MR training simulations
+- Meta Quest 2 and Quest 3 applications
+- Gameplay systems and rapid prototypes
+- Multiplayer and networked experiences
+- Industrial and agricultural digital twins
+- Real-time camera, sensor, and hardware integrations
+- Small experimental tools that solve annoyingly specific problems
+
+## Selected work
+
+- **Industrial VR Training** — immersive diesel engine and agricultural machinery training for John Deere dealerships
+- **Sintres Training Simulator** — firearms training and evaluation platform with instructor and shooter interfaces
+- **DotsOrbital** — Unity DOTS/ECS strategy and simulation experiments
+- **StellaReader** — focused mobile reader with persistent progress and bookmarks
+- **Screenshot Annotator** — browser-based capture and annotation utility
+- **Hokusai Dream** — interactive audiovisual procedural-art experiment
+
+## Core stack
+
+`Unity` · `C#` · `Meta XR` · `Quest 2/3` · `VR/MR` · `URP`  
+`Photon Fusion` · `FMOD` · `Blender` · `OpenCV` · `Git`
+
+I also work with React, TypeScript, Flutter, hardware integration, and whatever else the project demands.
+
+## Current direction
+
+I’m interested in technically ambitious projects involving:
+
+- XR and spatial computing
+- Training and simulation
+- Games and interactive installations
+- Computer vision and physical hardware
+- Real-time systems with unusual constraints
+
+Some of my strongest commercial work is private, but the public repositories below show how I prototype, structure systems, and turn strange ideas into working software.
+
+[Portfolio](https://github.com/joaodeconto/portfolio) · [Website](https://imediato.studio)
