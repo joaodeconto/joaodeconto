@@ -9,7 +9,7 @@ Currently developing a firearms training and evaluation simulator for Sintres, c
 ## What I build
 
 - VR/MR training simulations
-- Meta Quest 2 and Quest 3 applications
+- Meta Quest 2 and Meta Quest 3 applications
 - Gameplay systems and rapid prototypes
 - Multiplayer and networked experiences
 - Industrial and agricultural digital twins
@@ -21,7 +21,7 @@ Currently developing a firearms training and evaluation simulator for Sintres, c
 - **Industrial VR Training** — immersive diesel engine and agricultural machinery training for John Deere dealerships
 - **Sintres Training Simulator** — firearms training and evaluation platform with instructor and shooter interfaces
 - **DotsOrbital** — Unity DOTS/ECS strategy and simulation experiments
-- **StellaReader** — focused mobile reader with persistent progress and bookmarks
+- **StellaReader** — a focused Android PDF and EPUB reader built for my daughter, with persistent progress and bookmarks
 - **Screenshot Annotator** — browser-based capture and annotation utility
 - **Hokusai Dream** — interactive audiovisual procedural-art experiment
 
@@ -45,3 +45,11 @@ I’m interested in technically ambitious projects involving:
 Some of my strongest commercial work is private, but the public repositories below show how I prototype, structure systems, and turn strange ideas into working software.
 
 [Portfolio](https://github.com/joaodeconto/portfolio) · [Website](https://imediato.studio)
+
+## Contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaodeconto/joaodeconto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaodeconto/joaodeconto/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution trail" src="https://raw.githubusercontent.com/joaodeconto/joaodeconto/output/github-contribution-grid-snake.svg">
+</picture>
